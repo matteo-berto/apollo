@@ -1,5 +1,5 @@
 # apollo
-Python library for post-processing flux-linkages maps of synchronous machines.
+Python library for post-processing the flux-linkages maps of synchronous machines.
 
 The flux-linkages maps of a synchronous machine can be imported and post-processed in apollo to compute the inductances, the MTPA trajectory, and self-sensing capabilities of the motor [1].
 
