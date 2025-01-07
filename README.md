@@ -6,6 +6,8 @@ The flux-linkages maps of a synchronous machine can be imported and post-process
 apollo is part of dolomites-python and can be downloaded here:\
 https://gitlab.com/LuigiAlberti/dolomites-python
 
+![alt text](apollo.png?raw=true "Title")
+
 
 ## References
 [1] M. Berto, L. Alberti, V. Manzolini and S. Bolognani,\
