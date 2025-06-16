@@ -17,7 +17,7 @@ https://doi.org/10.1109/TIE.2021.3071710
 
 M. Berto, L. Alberti and A. Maimeri,\
 "Fast Evaluation of Self-Sensing Capability of Synchronous Machines,"\
-in IEEE Transactions on Industrial Electronics (Early Access),\
+in IEEE Transactions on Industrial Electronics, vol. 72, no. 7, pp. 6669-6677, July 2025,\
 https://doi.org/10.1109/TIE.2024.3497315
 
 M. Berto, L. Ortombina and L. Alberti,\
